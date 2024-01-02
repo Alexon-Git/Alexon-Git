@@ -3,7 +3,7 @@
 
 <br/>  
 
-<table><tr><td valign="top" width="50%" border="none">
+<table border="none"><tr border="none"><td valign="top" width="50%" border="none">
 
 ㅤ  
   
