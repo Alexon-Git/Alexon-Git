@@ -3,7 +3,7 @@
 
 <br/>  
 
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="50%" border="none">
 
 ㅤ  
   
@@ -106,4 +106,6 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
