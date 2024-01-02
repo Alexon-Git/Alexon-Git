@@ -27,20 +27,6 @@
 <br/>  
 
 
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-
-
-</td></tr></table>  
-
 <br/>  
 
 
