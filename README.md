@@ -47,7 +47,9 @@
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=Alexon-Git&show_icons=true&count_private=true&hide_border=true" align="left"  /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexon-Git&hide_border=true&layout=compact" align="right"  />
+<img src="https://github-readme-stats.vercel.app/api?username=Alexon-Git&show_icons=true&count_private=true&hide_border=true"  /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexon-Git&hide_border=true&layout=compact"/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Alexon-Git&theme=transparent&hide_border=true&locale=ru)](https://git.io/streak-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexon-Git&layout=compact&bg_color=00000000&hide_border=true)
 <br/>
 
 ---
