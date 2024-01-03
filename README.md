@@ -26,7 +26,7 @@
 
 ---
 
-## 💻 Технологии и Инструменты
+### 💻 Технологии и Инструменты
 
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
@@ -47,16 +47,11 @@
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=Alexon-Git&theme=transparent&hide_border=true&locale=ru"  /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexon-Git&hide_border=true&layout=compact"/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Alexon-Git&theme=transparent&hide_border=true&locale=ru)](https://git.io/streak-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexon-Git&layout=compact&bg_color=00000000&hide_border=true)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Alexon-Git&theme=transparent&hide_border=true&locale=ru)](https://git.io/streak-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexon-Git&layout=compact&bg_color=00000000&hide_border=true)
-<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=Alexon-Git&theme=transparent&hide_border=true&locale=ru"  /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexon-Git&theme=transparent&hide_border=true&locale=ru"/>
 
 ---
 
-## - :mailbox: Как связаться со мной: 
+### - :mailbox: Как связаться со мной: 
 
 <a href="https://t.me/lAlexonl" target="_blank">
 <img src=https://img.shields.io/badge/telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=dark alt=instagram style="margin-bottom: 5px;" />
