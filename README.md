@@ -50,7 +50,7 @@
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=Alexon-Git&theme=transparent&hide_border=true&locale=ru"  /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexon-Git&theme=transparent&hide_border=true&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Alexon-Git&theme=transparent&hide_border=true"  /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexon-Git&theme=transparent&hide_border=true&layout=compact"/>
 
 ---
 
