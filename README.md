@@ -1,6 +1,6 @@
 ## <div align="center">Вы на странице Alexona</div>
 
-<img align="right" alt="frontPhoto" width="400" padding-right="15px" src="https://i.pinimg.com/originals/69/e6/f6/69e6f674d4ab40834c31493d21d9560c.gif">
+<img align="right" alt="frontPhoto" width="450" height="350" padding-right="15px" src="https://i.pinimg.com/originals/69/e6/f6/69e6f674d4ab40834c31493d21d9560c.gif">
 
 <br/>
 
@@ -11,9 +11,6 @@
 
 - 🌑 Изучаю backend
 
-<br/>
-
-<br/>
 
 ---
 
@@ -28,6 +25,7 @@
     </a>
   </div>
 
+<br/>
 ---
 
 ## 💻 Технологии и Инструменты
