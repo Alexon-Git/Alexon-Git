@@ -1,5 +1,27 @@
 ## <div align="center">Вы на странице Alexona</div>
 
+<img align="right" alt="frontPhoto" width="400" src="https://i.pinimg.com/originals/69/e6/f6/69e6f674d4ab40834c31493d21d9560c.gif">
+
+# Hi there, I'm Freeeakn! 👋
+
+I'm a computer science enthusiast who loves working with the web.
+
+## 🔭 What I'm working on
+
+I'm currently learning algorithms in C and Python. I'm also practicing my web development skills using HTML, CSS, VueJS, React and Django.
+
+---
+
+
+
+
+
+
+
+
+
+
+
 <br/>
 
 <table border="none"><tr border="none"><td valign="top" width="50%" border="none">
