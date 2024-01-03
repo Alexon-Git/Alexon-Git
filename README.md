@@ -4,14 +4,13 @@
 
 <br/>
 
-
 - 🦾 Team lead в IT агенстве [НИЛ](http://nil-agency.ru)
 
 - 👁️‍🗨️ Работаю над собственными проектами
 
 - 🌑 Изучаю backend
 
-## <div font-size="3px">ㅤ</div>
+<!--## <div font-size="3px">ㅤ</div>-->
 
 ### 🤝 Социальные сети:
 
@@ -23,6 +22,8 @@
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
     </a>
   </div>
+  
+<br/>
 
 ---
 
