@@ -1,6 +1,6 @@
 ## <div align="center">Вы на странице Alexona</div>
 
-<img align="right" alt="frontPhoto" width="350" src="https://i.pinimg.com/originals/69/e6/f6/69e6f674d4ab40834c31493d21d9560c.gif">
+<img align="right" alt="frontPhoto" width="400" padding-right="15px" src="https://i.pinimg.com/originals/69/e6/f6/69e6f674d4ab40834c31493d21d9560c.gif">
 
 <br/>
 
@@ -10,38 +10,12 @@
 - 👁️‍🗨️ Работаю над собственными проектами
 
 - 🌑 Изучаю backend
+
+<br/>
+
+<br/>
+
 ---
-
-
-
-
-
-
-
-
-
-
-
-<br/>
-
-<table border="none"><tr border="none"><td valign="top" width="50%" border="none">
-
-ㅤ
-
-
-
-
-
-</td><td valign="top" width="50%">
-
-<img src="https://i.pinimg.com/originals/69/e6/f6/69e6f674d4ab40834c31493d21d9560c.gif" align="left" style="width: 100%" />
-
-</td></tr></table>
-
-<br/>
-
-<br/>
-
 
 ### 🤝 Социальные сети:
 
@@ -55,6 +29,7 @@
   </div>
 
 ---
+
 ## 💻 Технологии и Инструменты
 
 <div align="center">  
@@ -76,17 +51,11 @@
 
 ---
 
-<table><tr><td valign="top" width="50%">
-
 <img src="https://github-readme-stats.vercel.app/api?username=Alexon-Git&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexon-Git&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
-</td></tr></table>
-
-<br/>
+---
 
 ## - :mailbox: Как связаться со мной: 
 
@@ -96,8 +65,6 @@
 <a href="https://t.me/lAlexonl" target="_blank">
 <img src=https://img.shields.io/badge/telegram-%232E87FB.svg?&style=for-the-badge&logo=telegram&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-
-<br />
 
 ---
 
