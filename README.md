@@ -1,15 +1,15 @@
 ## <div align="center">Вы на странице Alexona</div>
 
-<img align="right" alt="frontPhoto" width="400" src="https://i.pinimg.com/originals/69/e6/f6/69e6f674d4ab40834c31493d21d9560c.gif">
+<img align="right" alt="frontPhoto" width="350" src="https://i.pinimg.com/originals/69/e6/f6/69e6f674d4ab40834c31493d21d9560c.gif">
 
-# Hi there, I'm Freeeakn! 👋
+<br/>
 
-I'm a computer science enthusiast who loves working with the web.
 
-## 🔭 What I'm working on
+- 🦾 Team lead в IT агенстве [НИЛ](http://nil-agency.ru)
 
-I'm currently learning algorithms in C and Python. I'm also practicing my web development skills using HTML, CSS, VueJS, React and Django.
+- 👁️‍🗨️ Работаю над собственными проектами
 
+- 🌑 Изучаю backend
 ---
 
 
@@ -28,11 +28,7 @@ I'm currently learning algorithms in C and Python. I'm also practicing my web de
 
 ㅤ
 
-- 🦾 Team lead в IT агенстве [НИЛ](http://nil-agency.ru)
 
-- 👁️‍🗨️ Работаю над собственными проектами
-
-- 🌑 Изучаю backend
 
 
 
