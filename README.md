@@ -57,10 +57,10 @@
 ### - :mailbox: Как связаться со мной: 
 
 <a href="https://t.me/lAlexonl" target="_blank">
-<img src=https://img.shields.io/badge/telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=dark alt=instagram style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=dark alt=telegram style="margin-bottom: 5px;" />
 </a>
 <a href="https://wizzardhtt@gmail.com" target="_blank">
-<img src=https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/Gmail-%23000000.svg?&style=for-the-badge&logo=Gmail&logoColor=dark alt=gmail style="margin-bottom: 5px;" />
 </a>
 
 ---
