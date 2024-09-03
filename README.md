@@ -69,4 +69,6 @@
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
-![Visitor Badge](https://visitor-badge.feriirawann.repl.co?username=Alexon-Git&repo=Alexon-Git&label=visitors&style=flat&color=%230C14FF&contentType=svg)
+[![Visitor Badge](https://visitor-badge.feriirawann.repl.co?username=Alexon-Git&repo=Alexon-Git&label=visitors&style=flat&color=%230C14FF&contentType=svg)]
+
+https://badges.pufler.dev/visits/Alexon-Git/Alexon-Git
