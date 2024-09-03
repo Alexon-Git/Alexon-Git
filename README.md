@@ -69,4 +69,4 @@
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
-![](https://komarev.com/ghpvc/?username=Alexon-Git&color=green)
+![](https://komarev.com/ghpvc/?username=Alexon-Git&color=black)
