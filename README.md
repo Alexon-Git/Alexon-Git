@@ -4,7 +4,7 @@
 
 <br/>
 
-- 🦾 Team leader в IT агентстве [НИЛ](http://nil-agency.ru)
+- 🦾 Team leader в IT агентстве 
 
 - 👁️‍🗨️ Работаю над собственными проектами
 
